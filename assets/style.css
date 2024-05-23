@@ -41,12 +41,9 @@ nav {
   width: 60%;
   margin: 0 auto;
   justify-content: space-between;
+  align-items: center;
   line-height: 3rem;
-  .logo{
-    display: flex;
-    gap: 0.5rem;
-    img{height: 2.5rem;}
-  }
+ 
   ul {
     display: flex;
     align-self: center;
@@ -55,6 +52,8 @@ nav {
       flex: 1;
       font-weight: 700;
     }
+    a{height: 3rem;
+      line-height: 3rem;}
   }
 }
 .jumbotron {
