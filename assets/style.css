@@ -83,7 +83,7 @@ h3 a:hover{color:#1bffe1;}
 
 }
 .cus {
-  background: var(--defaultgreen);
+  background: white;
   ul {
     display: flex;
     gap: 1rem;
